@@ -10,6 +10,17 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require_tree .
- *= require_self
+ *= bootstrap
+ *= bootstrap.css.map
+ *= bootstrap.min
+ *= bootstrap.min.css.map
+ *= bootstrap-grid
+ *= bootstrap-grid.min
+ *= bootstrap-reboot
+ *= bootstrap-reboot.min
+ *= font-awesome
+ *= font-awesome.css.map
+ *= font-awesome.min
+ *= grayscale
+ *= grayscale.min
  */
